@@ -2089,3 +2089,24 @@ footer p {margin-left: 0px;}
 .thumb-4 {margin-right: 6px;}
 .thumb-5, .thumb-10 {height: 79px;}
 }
+
+.person-name {
+	color:#555555;
+	font-size: 18.72px;
+	line-height: 18.72px;
+	font-weight:bold;
+	text-align:center;
+	padding-top:20px;
+	padding-bottom: 20px;
+	/* color:#555555;
+	line-height: 16px;
+	font-weight:bold;
+	padding:10px 0px 10px 0px; */
+}
+.person-title {
+	font-style:italic;
+	font-weight:lighter;
+	font-size:16px;
+	line-height: 16px;
+	padding-top:5px;
+}
