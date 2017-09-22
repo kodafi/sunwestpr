@@ -661,6 +661,11 @@ footer a {
 .md-posts:last-child {
 	border: none;
 }
+.md-posts.first {
+	border-top: 1px solid #ffcc00;
+	padding-top: 47px;
+	margin-top: 0;
+}
 
 .md-post {
 	display: block;
